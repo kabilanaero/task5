@@ -1,0 +1,33 @@
+*{ 
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  }
+.container{
+           margin:auto;
+           width:90%;	
+		   }
+.sec{
+     margin-top:30px;
+	 background-color:#f5f7f7;
+}
+.row{
+     display:flex;
+}
+img{
+	 max-width:100%;
+}
+.icon{
+	  padding:30px;
+}
+.para{
+	padding-left:20px;
+	padding-bottom:30px;
+}
+.col{width:50%;}
+.icon-wrapper{
+	          display:flex;
+			  padding:10px;
+			  padding-top:5px;
+			  
+}
